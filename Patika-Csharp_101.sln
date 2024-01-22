@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma-2", "Algoritma-2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hazir-Metotlar-String", "Hazir-Metotlar-String\Hazir-Metotlar-String.csproj", "{28402B5D-D901-49D8-8C68-0F531D76D431}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyon", "Koleksiyon\Koleksiyon.csproj", "{7B4F927F-234B-46E2-806C-A5ABE031F4C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{28402B5D-D901-49D8-8C68-0F531D76D431}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28402B5D-D901-49D8-8C68-0F531D76D431}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28402B5D-D901-49D8-8C68-0F531D76D431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4F927F-234B-46E2-806C-A5ABE031F4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4F927F-234B-46E2-806C-A5ABE031F4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4F927F-234B-46E2-806C-A5ABE031F4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4F927F-234B-46E2-806C-A5ABE031F4C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
