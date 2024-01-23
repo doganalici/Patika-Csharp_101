@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static-Sinif-ve-Uyeler", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct-Kavrami", "Struct-Kavrami\Struct-Kavrami.csproj", "{55F2EA1B-35E2-48CB-A8C2-6A7B166774E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{E30A883B-6FAD-4DCC-9573-389684FE3F3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{55F2EA1B-35E2-48CB-A8C2-6A7B166774E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55F2EA1B-35E2-48CB-A8C2-6A7B166774E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55F2EA1B-35E2-48CB-A8C2-6A7B166774E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30A883B-6FAD-4DCC-9573-389684FE3F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30A883B-6FAD-4DCC-9573-389684FE3F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30A883B-6FAD-4DCC-9573-389684FE3F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30A883B-6FAD-4DCC-9573-389684FE3F3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
