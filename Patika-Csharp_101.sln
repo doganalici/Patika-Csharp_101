@@ -19,27 +19,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler_For_Loop", "Dongul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler_While_Foreach", "Donguler_While_Foreach\Donguler_While_Foreach.csproj", "{1F6367D0-4ADC-4633-9336-E690469C0E7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{9CB68DA0-C4C0-4AE6-83E5-D94AA2029828}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{9CB68DA0-C4C0-4AE6-83E5-D94AA2029828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler-Array-Sinifi-Metodlari", "Diziler-Array-Sinifi-Metodlari\Diziler-Array-Sinifi-Metodlari.csproj", "{857C83DD-F9AD-4A70-8FD9-59DD34DA7CDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler-Array-Sinifi-Metodlari", "Diziler-Array-Sinifi-Metodlari\Diziler-Array-Sinifi-Metodlari.csproj", "{857C83DD-F9AD-4A70-8FD9-59DD34DA7CDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{90A5285D-4285-45CD-9F24-8360C68BAB0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{90A5285D-4285-45CD-9F24-8360C68BAB0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar-Overloading", "Metotlar-Overloading\Metotlar-Overloading.csproj", "{EC9A255B-D57D-4A30-8E9D-796C9F2A5FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar-Overloading", "Metotlar-Overloading\Metotlar-Overloading.csproj", "{EC9A255B-D57D-4A30-8E9D-796C9F2A5FD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive-Extension-Metotlar", "Recursive-Extension-Metotlar\Recursive-Extension-Metotlar.csproj", "{247A98E8-6235-44AE-9F2E-56456772DCCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursive-Extension-Metotlar", "Recursive-Extension-Metotlar\Recursive-Extension-Metotlar.csproj", "{247A98E8-6235-44AE-9F2E-56456772DCCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma-1", "Algoritma-1\Algoritma-1.csproj", "{65D41FC4-2349-4319-86F6-691380080FDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritma-1", "Algoritma-1\Algoritma-1.csproj", "{65D41FC4-2349-4319-86F6-691380080FDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma-2", "Algoritma-2\Algoritma-2.csproj", "{41D70800-31D4-4BEC-86F5-4089A0880223}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritma-2", "Algoritma-2\Algoritma-2.csproj", "{41D70800-31D4-4BEC-86F5-4089A0880223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hazir-Metotlar-String", "Hazir-Metotlar-String\Hazir-Metotlar-String.csproj", "{28402B5D-D901-49D8-8C68-0F531D76D431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hazir-Metotlar-String", "Hazir-Metotlar-String\Hazir-Metotlar-String.csproj", "{28402B5D-D901-49D8-8C68-0F531D76D431}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyon", "Koleksiyon\Koleksiyon.csproj", "{7B4F927F-234B-46E2-806C-A5ABE031F4C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyon", "Koleksiyon\Koleksiyon.csproj", "{7B4F927F-234B-46E2-806C-A5ABE031F4C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_List", "Generic_List\Generic_List.csproj", "{79FFC8B9-C94F-40B2-8218-29F95D3E1F97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generic_List", "Generic_List\Generic_List.csproj", "{79FFC8B9-C94F-40B2-8218-29F95D3E1F97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "ArrayList\ArrayList.csproj", "{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{FABD9942-D632-462F-9CD1-211E6E4D0541}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FABD9942-D632-462F-9CD1-211E6E4D0541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABD9942-D632-462F-9CD1-211E6E4D0541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABD9942-D632-462F-9CD1-211E6E4D0541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABD9942-D632-462F-9CD1-211E6E4D0541}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
