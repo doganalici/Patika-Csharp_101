@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "ArrayList\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{FABD9942-D632-462F-9CD1-211E6E4D0541}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek-2", "Ornek-2\Ornek-2.csproj", "{77BC44CD-7318-49BB-9292-C406E1703607}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{FABD9942-D632-462F-9CD1-211E6E4D0541}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FABD9942-D632-462F-9CD1-211E6E4D0541}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FABD9942-D632-462F-9CD1-211E6E4D0541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BC44CD-7318-49BB-9292-C406E1703607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BC44CD-7318-49BB-9292-C406E1703607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BC44CD-7318-49BB-9292-C406E1703607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BC44CD-7318-49BB-9292-C406E1703607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
