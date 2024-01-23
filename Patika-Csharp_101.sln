@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurucu-Metotlar", "Kurucu-M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{AB03C89D-8EA5-4F37-928D-989B3DF8D0BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static-Sinif-ve-Uyeler", "Static-Sinif-ve-Uyeler\Static-Sinif-ve-Uyeler.csproj", "{EAF3AB2B-F00E-4678-8E49-04F11D5DE03A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{AB03C89D-8EA5-4F37-928D-989B3DF8D0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB03C89D-8EA5-4F37-928D-989B3DF8D0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB03C89D-8EA5-4F37-928D-989B3DF8D0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF3AB2B-F00E-4678-8E49-04F11D5DE03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF3AB2B-F00E-4678-8E49-04F11D5DE03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF3AB2B-F00E-4678-8E49-04F11D5DE03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF3AB2B-F00E-4678-8E49-04F11D5DE03A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
