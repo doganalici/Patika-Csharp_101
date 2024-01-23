@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek-2", "Ornek-2\Ornek-2.csproj", "{77BC44CD-7318-49BB-9292-C406E1703607}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinif-Kavrami", "Sinif-Kavrami\Sinif-Kavrami.csproj", "{4A53DB43-E2C9-4E20-90EB-BE9A7E2C8788}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{77BC44CD-7318-49BB-9292-C406E1703607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77BC44CD-7318-49BB-9292-C406E1703607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77BC44CD-7318-49BB-9292-C406E1703607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A53DB43-E2C9-4E20-90EB-BE9A7E2C8788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A53DB43-E2C9-4E20-90EB-BE9A7E2C8788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A53DB43-E2C9-4E20-90EB-BE9A7E2C8788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A53DB43-E2C9-4E20-90EB-BE9A7E2C8788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
