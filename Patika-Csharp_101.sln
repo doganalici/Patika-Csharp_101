@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyon", "Koleksiyon\Ko
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_List", "Generic_List\Generic_List.csproj", "{79FFC8B9-C94F-40B2-8218-29F95D3E1F97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{79FFC8B9-C94F-40B2-8218-29F95D3E1F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79FFC8B9-C94F-40B2-8218-29F95D3E1F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79FFC8B9-C94F-40B2-8218-29F95D3E1F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F0AC7C-7C1F-4AEE-847C-8CA7353D4F19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
